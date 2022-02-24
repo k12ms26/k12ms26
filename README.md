@@ -1,9 +1,10 @@
-<h1>this is MINSUN Github</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k12ms26&label=Profile%20views&color=0e75b6&style=flat" alt="k12ms26" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=k12ms26&show_icons=true&locale=en&layout=compact" alt="k12ms26" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k12ms26&show_icons=true&locale=en" alt="k12ms26" /></p>
+<h2>🙌 this is MINSUN Github 🙌</h2><br>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fk12ms26&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+![Minsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=k12ms26&show_icons=true&theme=gruvbox)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meeeeensun)](https://solved.ac/meeeeensun/)
-<h3>FE Engineer from South Korea</h3>
+<h2>FE Engineer from South Korea</h2>
 
 🔭 I’m currently working on [BeanYard (private yet)](https://github.com/bean-yard)
 
@@ -13,9 +14,9 @@
 <a href="/meeeeensun@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="meeeeensun@gmail.com" height="20" width="20" /></a>
 </span>
 
-<hr>
+<br>
 
-<h3 align="left">Languages and Tools</h3>
+<h2>Languages and Tools</h2>
 <p>
   <h4>🧺 Programming And Markup Languages</h4>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
