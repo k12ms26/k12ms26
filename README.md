@@ -11,7 +11,7 @@
 <span align="left">Connect with me 👉</span>
 <span align="left">
 <a href="https://instagram.com/meeeeensun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meeeeensun" height="20" width="20" /></a>
-<a href="/meeeeensun@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="meeeeensun@gmail.com" height="20" width="20" /></a>
+<a href="meeeeensun@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="meeeeensun@gmail.com" height="20" width="20" /></a>
 </span>
 
 <br>
