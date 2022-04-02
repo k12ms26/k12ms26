@@ -6,7 +6,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meeeeensun)](https://solved.ac/meeeeensun/)
 <h2>FE Engineer from South Korea</h2>
 
-🔭 I’m currently working on [BeanYard (private yet)](https://github.com/bean-yard)
+🔭 I currently worked on [:coffee:BeanYard, the GDSC Solution Challenge Project!:tomato:](https://github.com/dsc-sookmyung/2022-Sook4-SolutionChallenge)
 
 <span align="left">Connect with me 👉</span>
 <span align="left">
