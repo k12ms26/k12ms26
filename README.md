@@ -6,11 +6,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meeeeensun)](https://solved.ac/meeeeensun/)
 <h2>FE Engineer from South Korea</h2>
 
-🔭 I recently worked on [:coffee:BeanYard, the GDSC Solution Challenge Project!:tomato:](https://github.com/dsc-sookmyung/2022-Sook4-SolutionChallenge)
+🔭 I recently worked on [:family: Wuga, the Graduation Project! 🦴](https://github.com/wuga-2022)
 
 <span align="left">Connect with me 👉</span>
 <span align="left">
 <a href="https://instagram.com/meeeeensun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meeeeensun" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/minsun-kim-3b1b751a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meeeeensun" height="20" width="20" /></a>
 </span>
 
 <br>
